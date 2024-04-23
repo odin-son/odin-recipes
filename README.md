@@ -1,2 +1,3 @@
 # odin-recipes
-practising html
+Practising html with the odin recipes project
+
